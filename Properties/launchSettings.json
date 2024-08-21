@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Tractus.NdiToNdi": {
+      "commandName": "Project",
+      "commandLineArgs": "\"BIRDDOG-X1 (CAM)\""
+    }
+  }
+}
