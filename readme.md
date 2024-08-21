@@ -10,3 +10,6 @@ Launch it, provide an NDI source name, and presto. Any incoming frames are immed
 
 Based on limited tests, the latency appears to be 1 frame behind the original source. This was tested with the [NDI Test Pattern Generator](https://github.com/tractusevents/NdiTestPatternGenerator) (Full Bandwidth), a BirdDog X1 (HX 3), and a Mevo Start (HX 2).
 
+## Download
+
+Grab the latest release on the [Releases Page](https://github.com/tractusevents/Tractus.NdiToNdiHB/releases/).
